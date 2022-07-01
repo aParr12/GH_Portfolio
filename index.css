@@ -1,0 +1,47 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.grid-even-rows {
+    display: grid;
+    grid-template-rows: 10%;
+    margin-left: 20px;
+}
+
+.landing_page_header1 {
+    font-size: 30px;
+    text-align: left;
+}
+
+.landing-page-hr {
+    width: 50px;
+    margin-top: 10px;
+}
+
+.vid-intro-commentary {
+    word-wrap: break-word;
+}
+
+.pic_of_me {
+    float: left;
+    width: 215px;
+    height: 215px;
+    border-radius: 50%;
+}
+
+.grid-even-columns {
+    display: grid;
+    grid-template-columns: 12% 50%;
+}
+
+.logo1, .logo2, .logo3 {
+    width: 30px;
+    height: 30px;
+}
+
+.card {
+    margin-left: 20px;
+    width: 33%;
+    float: left;
+}
+
